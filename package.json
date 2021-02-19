@@ -1,0 +1,30 @@
+{
+  "name": "-mydir-file",
+  "version": "1.0.0",
+  "description": "file and folder creator",
+  "main": "index.js",
+  "bin": {
+    "-mydir-file": "dir.js"
+  },
+  "directories": {
+    "lib": "lib/index"
+  },
+  "keywords": [
+    "createFile",
+    "createFolder",
+    "deleteFile"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antonio-Avelino/-mydir-file.git"
+  },
+  "author":{
+    "name":"António Avelino",
+    "email":"antonio316890@gmail.com"
+      } ,
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antonio-Avelino/-mydir-file/issues"
+  },
+  "homepage": "https://github.com/Antonio-Avelino/-mydir-file#readme"
+}
