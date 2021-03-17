@@ -9,6 +9,7 @@
   "directories": {
     "lib": "lib/index"
   },
+  "readmeFilename": "README.md",
   "keywords": [
     "createFile",
     "createFolder",
