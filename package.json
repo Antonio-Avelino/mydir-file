@@ -4,7 +4,7 @@
   "description": "file and folder creator",
   "main": "index.js",
   "bin": {
-    "-mydir-file": "dir.js"
+    "mydir-file": "dir.js"
   },
   "directories": {
     "lib": "lib/index"
